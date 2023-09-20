@@ -1,0 +1,8 @@
+.my-custom-font {
+    font-family:'Courier New', Courier, monospace;
+    /* Các thuộc tính CSS khác cho kiểu chữ */
+    background-color: aqua;
+}
+.hi{
+    width: 100px;
+}
